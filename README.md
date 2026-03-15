@@ -1,6 +1,6 @@
 ## Olá 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatan-alves-6ab890302/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:jafbrasil@gmail.com)
-[![Python](https://img.shields.io/badge/Python-4F4F4F)(https://www.python.org/)]
+[![Python](https://img.shields.io/badge/Python-4F4F4F)](https://www.python.org/)
 <!--
 **jhonebrbrbr/jhonebrbrbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
