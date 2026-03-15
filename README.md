@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 😄 Olá, eu sou Jhonatan Alves Fonseca!
+# 😄 sou Jhonatan Alves Fonseca!
 - 🏫 Graduado em Gestão de TI pela Uni9 e cursando Técnico em Desenvolvimento de Sistemas ead na ETEC
 - 👨‍💻 Atualmente trabalho com Suporte Técnico na empresa Sys3 Sistemas com foco em apoio ao usuário final do nosso ERP XCOM e também responsável por gerir uma VPS com Windows Server (AD, permissões recursivas, criação/inativação de usuários)
 - 🧑‍🎓 Estudando para aumentar meus conhecimentos
