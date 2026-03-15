@@ -19,7 +19,5 @@ Here are some ideas to get you started:
 - 👨‍💻 Atualmente trabalho com Suporte Técnico na empresa Sys3 Sistemas com foco em apoio ao usuário final do nosso ERP xcom e também responsável por gerir uma VPS com Windows Server (AD, permissões recursivas, criação/inativação de usuários)
 - 🧑‍🎓 Estudando para aumentar meus conhecimentos
   <br>
-<a href="https://www.linkedin.com/in/jhonatan-alves-6ab890302/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/jhonatan-alves-6ab890302/" target="_blank">LINKEDIN</a>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:jafbrasil@gmail.com)
